@@ -1,2 +1,6 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 G is an alphabet
+=======
+6 is a number
+>>>>>>> 7d6b038 (6)
