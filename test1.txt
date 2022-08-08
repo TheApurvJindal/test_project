@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 G is an alphabet
+=======
+2 is a number
+>>>>>>> 4a576a2 (2)
