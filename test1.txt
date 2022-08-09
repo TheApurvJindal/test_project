@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-G is an alphabet
-=======
+
 6 is a number
 >>>>>>> 7d6b038 (6)
+=======
+7 is a number
+>>>>>>> b32d4d7 (7)
